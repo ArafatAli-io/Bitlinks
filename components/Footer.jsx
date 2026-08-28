@@ -41,7 +41,7 @@ const Footer = () => {
               href="mailto:bitLinks123@gmail.com"
               className="text-gray-300 hover:text-white transition break-all"
             >
-              Contact Us: bitLinks123@gmail.com
+              Contact Us: aliarafat.dev@gmail.com
             </a>
           </div>
 
@@ -52,22 +52,17 @@ const Footer = () => {
             </p>
 
             <div className="flex flex-wrap justify-center gap-3">
+            
+
               <a
-                href="#"
+                href="https://github.com/ArafatAli-07"
                 className="px-3 py-2 rounded-lg bg-gray-900 text-xs sm:text-sm text-gray-300 hover:bg-gray-800 hover:text-white transition"
               >
-                Facebook
+                GitHub
               </a>
 
               <a
-                href="#"
-                className="px-3 py-2 rounded-lg bg-gray-900 text-xs sm:text-sm text-gray-300 hover:bg-gray-800 hover:text-white transition"
-              >
-                Twitter
-              </a>
-
-              <a
-                href="#"
+                href="https://www.linkedin.com/in/arafat-ali-dev"
                 className="px-3 py-2 rounded-lg bg-gray-900 text-xs sm:text-sm text-gray-300 hover:bg-gray-800 hover:text-white transition"
               >
                 LinkedIn
