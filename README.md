@@ -79,7 +79,7 @@ You can explore the deployed application here:
 <details>
 <summary><strong>Home </strong></summary>
 
-<img src="screenshorts/home.png" alt="Bitlinks Desktop View" width="100%" />
+<img src="screenshorts/Home.png" alt="Bitlinks Desktop View" width="100%" />
 
 <br>
 
@@ -92,9 +92,20 @@ You can explore the deployed application here:
 
 <br>
 
-<img src="screenshorts/footer.png" alt="Bitlinks Generator" width="100%" />
+<img src="screenshorts/Footer.png" alt="Bitlinks Generator" width="100%" />
 
 
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Mobile </strong></summary>
+
+<img src="screenshorts/Mobile.png" alt="Bitlinks Desktop View" width="100%" />
+
+<br>
 
 </details>
 
