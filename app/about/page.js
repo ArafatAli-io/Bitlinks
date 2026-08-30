@@ -193,7 +193,7 @@ const About = () => {
                 href="mailto:BitLinks123@gmail.com"
                 className="text-blue-700 underline break-words"
               >
-                BitLinks123@gmail.com
+                aliarafat.dev@gmail.com
               </a>{" "}
               or visit our{" "}
               <a

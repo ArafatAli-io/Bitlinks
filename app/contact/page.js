@@ -50,13 +50,13 @@ const Contact = () => {
 
           <p className="px-2 sm:px-6 md:px-10 lg:px-20 font-serif text-sm sm:text-base md:text-lg">
             <span className="font-bold">Email:</span> For general inquiries,
-            please contact us at BitLinks123@gmail.com.
+            please contact us at aliarafat.dev@gmail.com.
           </p>
 
           <p className="px-2 sm:px-6 md:px-10 lg:px-20 font-serif text-sm sm:text-base md:text-lg">
             <span className="font-bold">Support:</span> If you need help with
             using BitLinks or have a technical issue, please reach out to our
-            support team at support@bitlinks.com.
+            support team at aliarafat.dev@bitlinks.com.
           </p>
         </div>
 
@@ -95,9 +95,9 @@ const Contact = () => {
           </p>
 
           <ul className="list-disc text-left font-semibold text-sm sm:text-base md:text-lg">
-            <li>Facebook: bitLinks_123</li>
-            <li>Twitter: bitLinks_123</li>
-            <li>LinkedIn: bitLinks_123</li>
+            <li>Github: github.com/ArafatAli-07</li>
+            
+            <li>LinkedIn: www.linkedin.com/in/arafat-ali-dev</li>
           </ul>
         </div>
       </section>
