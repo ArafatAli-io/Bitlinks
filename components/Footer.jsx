@@ -9,7 +9,7 @@ const Footer = () => {
         {/* Main Footer Content */}
         <div className="text-center">
           <p className="text-sm sm:text-base font-semibold">
-            © 2025 BitLinks. All rights reserved.
+            © {new Date().getFullYear()} BitLinks. All rights reserved.
           </p>
 
           <p className="text-xs sm:text-sm text-gray-300 mt-3 max-w-2xl mx-auto leading-6">
