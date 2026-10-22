@@ -28,7 +28,7 @@ export default function Home() {
               </button>
             </Link>
 
-            <Link href="https://github.com/ArafatAli-07">
+            <Link href="https://github.com/ArafatAli-io">
               <button className="w-32 bg-black shadow-lg shadow-gray-900 rounded-lg px-4 py-2 font-bold font-serif text-white hover:bg-gray-800 transition">
                 Github
               </button>

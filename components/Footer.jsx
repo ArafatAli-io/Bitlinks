@@ -55,14 +55,14 @@ const Footer = () => {
             
 
               <a
-                href="https://github.com/ArafatAli-07"
+                href="https://github.com/ArafatAli-io"
                 className="px-3 py-2 rounded-lg bg-gray-900 text-xs sm:text-sm text-gray-300 hover:bg-gray-800 hover:text-white transition"
               >
                 GitHub
               </a>
 
               <a
-                href="https://www.linkedin.com/in/arafat-ali-dev"
+                href="https://www.linkedin.com/in/arafatali-io"
                 className="px-3 py-2 rounded-lg bg-gray-900 text-xs sm:text-sm text-gray-300 hover:bg-gray-800 hover:text-white transition"
               >
                 LinkedIn

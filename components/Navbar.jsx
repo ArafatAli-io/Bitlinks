@@ -71,7 +71,7 @@ const Navbar = () => {
             </Link>
 
             <Link
-              href="https://github.com/ArafatAli-07"
+              href="https://github.com/ArafatAli-io"
               target="_blank"
               rel="noopener noreferrer"
             >
