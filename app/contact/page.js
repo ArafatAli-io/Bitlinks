@@ -95,9 +95,9 @@ const Contact = () => {
           </p>
 
           <ul className="list-disc text-left font-semibold text-sm sm:text-base md:text-lg">
-            <li>Github: github.com/ArafatAli-07</li>
+            <li>Github: github.com/ArafatAli-io</li>
             
-            <li>LinkedIn: www.linkedin.com/in/arafat-ali-dev</li>
+            <li>LinkedIn: www.linkedin.com/in/arafatali-io</li>
           </ul>
         </div>
       </section>
